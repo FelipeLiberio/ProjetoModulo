@@ -1,0 +1,27 @@
+Login                -> admin - 25/09/2020 19:38:59
+Login                -> admin - 25/09/2020 19:39:46
+Cadastro usuario liniha -> admin - 25/09/2020 19:40:09
+Login                -> liniha - 25/09/2020 19:41:29
+Login                -> admin - 25/09/2020 19:41:40
+Cadastro usuario pero -> admin - 25/09/2020 19:42:18
+Login                -> admin - 25/09/2020 19:45:09
+Logout               -> admin - 25/09/2020 19:45:13
+Login                -> admin - 25/09/2020 19:53:13
+Login                -> admin - 25/09/2020 19:54:45
+Login                -> admin - 25/09/2020 19:56:36
+Login                -> admin - 25/09/2020 19:58:31
+Login                -> admin - 25/09/2020 20:00:17
+Login                -> admin - 25/09/2020 20:02:39
+Login                -> admin - 25/09/2020 20:05:07
+Logout               -> admin - 25/09/2020 20:05:19
+Login                -> admin - 25/09/2020 21:05:10
+Login                -> admin - 25/09/2020 21:07:05
+Login                -> admin - 25/09/2020 21:08:23
+Login                -> admin - 25/09/2020 21:10:51
+Login                -> admin - 25/09/2020 21:13:37
+Login                -> admin - 25/09/2020 21:14:23
+Login                -> admin - 25/09/2020 21:16:54
+Login                -> admin - 25/09/2020 21:18:35
+Login                -> admin - 25/09/2020 21:23:59
+Login                -> admin - 25/09/2020 21:34:58
+Login                -> admin - 25/09/2020 21:37:40
